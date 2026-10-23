@@ -16,7 +16,7 @@
 
 ---
 
-## Semaine 1 — [date]
+## Semaine 1
 
 ### Ce que j'ai fait
 - Création de mon compte GitHub et de ce repository
@@ -31,7 +31,7 @@
 ### Difficultés rencontrées
 - ...
 
-### Prompts utilisés (si demandé dans le TP)
+### Prompts utilisés
 **Prompt :**
 > ...
 
@@ -43,7 +43,7 @@
 
 ---
 
-## Semaine 2 — [date]
+## Semaine 2
 
 ### Ce que j'ai fait
 - ...
@@ -54,7 +54,7 @@
 ### Difficultés rencontrées
 - ...
 
-### Prompts utilisés (si demandé dans le TP)
+### Prompts utilisés
 **Prompt :**
 > ...
 
@@ -66,7 +66,7 @@
 
 ---
 
-## Semaine 3 — [date]
+## Semaine 3
 
 ### Ce que j'ai fait
 - ...
